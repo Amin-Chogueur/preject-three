@@ -5,6 +5,9 @@
     margin: 0;
     font-family: sans-serif;
 }
+html{
+    scroll-behavior: smooth;
+}
 :root{
     --main-color:#19C8FA;
     --second-color:#777;
